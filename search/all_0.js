@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['copying_0',['COPYING',['../a00033.html',1,'']]]
+  ['filestructure_0',['FILESTRUCTURE',['../a00030.html',1,'']]]
 ];
